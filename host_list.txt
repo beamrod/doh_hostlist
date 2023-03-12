@@ -171,7 +171,7 @@ ca01.dns4me.net
 ca02.dns4me.net
 dns9999.duckdns.org
 www.dnsadguard.co.uk
-dns1.dnscrypt.ca::453
+dns1.dnscrypt.ca
 dnsenc.com
 doh-lb-br.dnsflex.com
 doh-lb-gb.dnsflex.com
@@ -192,7 +192,7 @@ doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
 dns.dyn1.de
-easyhandshake.com::8053
+easyhandshake.com
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
@@ -471,7 +471,7 @@ dns.shecan.ir
 pro.shecan.ir
 do.shimul.me
 dns.shimul.me
-dns.lsho.top::444
+dns.lsho.top
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
