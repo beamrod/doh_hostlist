@@ -31,6 +31,10 @@ dns.aa.net.uk
 dns.adguard.com
 dns-family.adguard.com
 dns.containerpi.com
+cloudflare-dns.com
+mozilla.cloudflare-dns.com
+family.cloudflare-dns.com
+security.cloudflare-dns.com
 doh-de.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
