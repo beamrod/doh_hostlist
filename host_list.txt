@@ -106,11 +106,6 @@ dns.clanless.ovh
 doh.cleanbrowsing.org
 cvt-ic-us-adns-001.clearviewtechnology.net
 doh.cloud-sekeng.com
-cloudflare-dns.com
-mozilla.cloudflare-dns.com
-security.cloudflare-dns.com
-family.cloudflare-dns.com
-dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
 jpdns.cola16.app
 doh.xfinity.com
@@ -362,8 +357,6 @@ dns.moonssif.com
 www.morbitzer.de
 msr177.com
 dns.msxnet.ru
-doh.mullvad.net
-adblock.doh.mullvad.net
 blockerads.multimediaconcept.fr
 dns.murgi.de
 dns.muxinghe.cn
